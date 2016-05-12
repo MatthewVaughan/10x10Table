@@ -1,0 +1,6 @@
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\bin\Debug\10x10TimesTable.exe.config
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\bin\Debug\10x10TimesTable.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\bin\Debug\10x10TimesTable.pdb
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\obj\Debug\10x10TimesTable.csprojResolveAssemblyReference.cache
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\obj\Debug\10x10TimesTable.exe
+C:\Users\mattm_000\Documents\Visual Studio 2015\Projects\4Fun\10x10TimesTable\10x10TimesTable\obj\Debug\10x10TimesTable.pdb
